@@ -1,2 +1,2 @@
-# resistance-africaine
+# AfrikApp
 Application d'histoire
